@@ -25,14 +25,23 @@ I find it rewarding that the work of a Data Analyst can have such a major impact
 # Seed Project Ideas 📊
 📍 Skills Gap Analysis
 
-A project I would be interested in as a Data Analyst in Human Resources would be developing a Skills Gap Analysis. This analysis would entail comparing the current skills available in an organisation to required skills that will lead to achieving future organisational goals. This analysis will be extremely helpful to HR professionals, and it will uncover training needs and recruitment priorities. 
-
-
-
+A project I would be interested in as a Data Analyst in Human Resources would be developing a Skills Gap Analysis. This analysis would entail comparing the current skills available in an organisation to required skills that will lead to achieving future organisational goals. This analysis will be extremely helpful to HR professionals, and it will uncover training needs and recruitment priorities.  
 
 📍 Predictive Recruitment Model
 
 Another project that interests me is developing a Predictive Recruitment Model. This model will determine which employees are most likely to succeed in certain roles, based on past recruitment and employee performance data. This model will be able to predict and identify canditates who suitably qualified for certaain roles, who will perform within these roles, and who will ultimately contribute to the organisation. These insights will allow recruiters to make better hiring decisions. 
 
+---
+# Skills to Grow
+📍 Technical Skill
+The most important skill I will need is learning how to utilise programming tools like Python and SQL. Being proficient in these tools will allow me to query large sets of HR data. As well as analyse, understand, visualise and clean HR big data to create meaningful insights and drive organisational success. 
 
+📍 Soft Skill
+As an aspiring Data Analyst in HR, an important soft skill I will need to improve is attention to detail. Being detail orientated will allow me to clean data effectively to generate accurate analyses, and reliable models that will enhance HR processes. 
+
+---
+# Goals
+For my 30 day short-term goal, I am commited to building a strong foundation in Data Analytics. This will entail learning the functions found in data tools like Python and SQL. This will allow me to query data and eventually move on to achieving my long-term goal. 
+
+My 6 month long-term goal would be to eventually become profecient in SQL and Python. I want to eventually build a strong portfolio that will showcase all my acquired skills and abilities around data analytics. I will acheive this by quesrying HR datasets. I also want to be able to showcase my findings in a proper professional manner, and with complete confindence. 
 
